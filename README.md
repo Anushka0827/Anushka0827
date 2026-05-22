@@ -2,14 +2,14 @@
 
 AI & Data Science Student | Building Practical ML Solutions | Turning ideas into reality.
 
----
+
 
 ## About
 I’m a diploma student specializing in AI and Data Science, focused on building practical, real-world solutions using machine learning and data-driven approaches.  
 
 I enjoy working on end-to-end pipelines — from data preprocessing to model building and evaluation — with a strong interest in solving meaningful problems through AI.
 
----
+
 
 ## Current Focus
 - Agentic AI
@@ -18,7 +18,7 @@ I enjoy working on end-to-end pipelines — from data preprocessing to model bui
 - Feature engineering and data preprocessing  
 - Exploring AI tools for rapid solution development  
 
----
+
 
 ## Technical Skills
 **Languages:** Python, SQL, Java, C, C++ 
@@ -27,7 +27,7 @@ I enjoy working on end-to-end pipelines — from data preprocessing to model bui
 **Web:** HTML, CSS, Flask  
 **Tools:** Git, Jupyter Notebook, Google Colab, GitHub  
 
----
+
 
 ## Projects
 
@@ -39,7 +39,7 @@ AI-based cybersecurity system for medical IoT devices
 
 [View Project](#)
 
----
+
 
 ### Machine Learning Pipeline  
 End-to-end ML pipeline implementation  
@@ -49,7 +49,7 @@ End-to-end ML pipeline implementation
 
 [View Project](#)
 
----
+
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushka0827&show_icons=true)
