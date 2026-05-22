@@ -169,7 +169,13 @@ Includes:
 
 # GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushka0827&show_icons=true&theme=tokyonight)
+# GitHub Stats
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anushka0827&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anushka0827&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 # Connect with me on:
