@@ -6,7 +6,7 @@
 
 # About
 
-Hi, I’m Anushka, a first-year student in Artificial Intelligence and Data Science who enjoys turning ideas into practical AI projects. Most of my learning comes from building things hands-on rather than studying only theory. I like experimenting with machine learning models, computer vision systems, data preprocessing techniques, and intelligent applications that solve real problems.
+Hi, I’m Anushka, a second-year student in Artificial Intelligence and Data Science who enjoys turning ideas into practical AI projects. Most of my learning comes from building things hands-on rather than studying only theory. I like experimenting with machine learning models, computer vision systems, data preprocessing techniques, and intelligent applications that solve real problems.
 
 Over time, I’ve worked on projects related to healthcare AI, safety systems, computer vision, and machine learning pipelines. While building these projects, I became especially interested in understanding how data moves through a complete workflow — from cleaning and preprocessing to model training, optimization, and deployment.
 
