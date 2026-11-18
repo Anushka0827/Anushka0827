@@ -1,189 +1,168 @@
+ <div align="center">
+
+<img src="./pixel-cat.png" width="100%" alt=" Anushka's purple pixel cat coding in a macOS-style terminal" />
+
 # Anushka Ugale
 
-### AI & Data Science Student | Building Practical ML Solutions | Turning ideas into reality.
+### AI & Data Science Student | Machine Learning | Healthcare AI
+
+Pune, India · MIT World Peace University
+
+[GitHub](https://github.com/Anushka0827) · [LinkedIn](https://www.linkedin.com/in/anushka-ugale/)
+
+</div>
 
 ---
 
-# About
+## `$ whoami`
 
-Hi, I’m Anushka, a second-year student in Artificial Intelligence and Data Science who enjoys turning ideas into practical AI projects. Most of my learning comes from building things hands-on rather than studying only theory. I like experimenting with machine learning models, computer vision systems, data preprocessing techniques, and intelligent applications that solve real problems.
+Hi, I'm Anushka, a second-year B.Tech student in Artificial Intelligence and Data Science.
 
-Over time, I’ve worked on projects related to healthcare AI, safety systems, computer vision, and machine learning pipelines. While building these projects, I became especially interested in understanding how data moves through a complete workflow — from cleaning and preprocessing to model training, optimization, and deployment.
+I enjoy learning by building practical projects and exploring how AI can solve real-world problems. My work and interests span healthcare AI, machine learning, computer vision, and intelligent applications.
 
-I’m also curious about emerging technologies like Agentic AI, Prompt Engineering, and AI-powered automation, and I enjoy exploring how these technologies can be used to create meaningful and impactful solutions.
+I'm particularly interested in understanding the complete AI development process — from data preprocessing and model development to evaluation, optimization, and deployment.
 
----
+Currently, I'm strengthening my technical foundations while exploring Deep Learning, Agentic AI, and MLOps.
 
-# What I’m Currently Learning & Exploring
+## `$ current-focus`
 
-- Building practical Machine Learning pipelines  
-- Exploring Agentic AI and Prompt Engineering  
-- Computer Vision applications using Python  
-- Data preprocessing and feature engineering techniques  
-- AI systems for healthcare and safety-related problems  
-- Learning modern AI tools and workflows for rapid development  
+- Exploring Machine Learning and Deep Learning.
+- Building healthcare-focused AI applications.
+- Learning Computer Vision techniques.
+- Exploring Agentic AI and intelligent workflows.
+- Understanding model deployment and MLOps.
 
----
+## `$ tech-stack`
 
-# Technical Skills
+**Programming Languages**
 
-## Programming Languages
+Python · C · C++ · Java · SQL
 
-Python • SQL • Java • C • C++ •SQLite
+**Machine Learning & AI**
 
----
+Scikit-learn · TensorFlow · Keras · XGBoost
 
-## Machine Learning & AI
+**Data Science**
 
-Scikit-learn • TensorFlow • Keras • OpenCV • Pandas • NumPy • XGBoost • Streamlit • YOLO • Pickle/Joblib •
+NumPy · Pandas · Matplotlib · Seaborn
 
----
+**Computer Vision**
 
-## Data Visualization & Analysis
+OpenCV · YOLO
 
-Matplotlib • Seaborn
+**Web Development & Deployment**
 
----
+HTML · CSS · Flask · Streamlit · Docker
 
-## Web & Deployment
+**Tools & Platforms**
 
-HTML • CSS • Flask • Docker • Firebase
+Git · GitHub · Jupyter Notebook · Google Colab · VS Code
 
----
-
-## Tools & Platforms
-
-Git • GitHub • Jupyter Notebook • Google Colab • VS Code
+*I have worked with or explored these technologies and am continuously developing deeper practical proficiency.*
 
 ---
 
-## Concepts
+## `$ featured-projects`
 
-Machine Learning Pipelines • Data Preprocessing • Feature Engineering • Model Evaluation • Computer Vision • Prompt Engineering
+### 01. PulseGuard — Contact-Free Cardiac Monitoring
 
----
+[View Repository](https://github.com/Anushka0827/Contactless-Heart-Rate-Detection)
 
-# Projects
+A contact-free cardiac monitoring project that uses facial video and remote photoplethysmography (rPPG) to estimate heart rate.
 
-## Contactless Heart Rate Detection
+**Key areas explored:**
+- Facial video-based pulse extraction.
+- Multi-region and multi-algorithm signal analysis.
+- Signal Quality Index (SQI).
+- BPM estimation and HRV analysis.
+- AI applications in healthcare.
 
-This project focuses on detecting a person’s heart rate without using any physical sensor. The system works using facial video input and extracts pulse signals through remote photoplethysmography (rPPG).
+### 02. MedQA — Healthcare ML & MLOps
 
-While working on this project, I explored how computer vision and signal processing can be combined in healthcare applications. The system estimates BPM (beats per minute) in real time and also includes signal quality checking for more stable predictions. What I worked on:
+[View Repository](https://github.com/Anushka0827/mlops-healthcare)
 
-Key areas explored:
+A healthcare-focused machine learning project exploring structured ML workflows and deployment practices.
 
-- Facial video-based pulse extraction  
-- Real-time BPM estimation  
-- Signal quality analysis  
-- Exploring healthcare-based AI applications  
+**Key areas explored:**
+- Machine learning pipelines.
+- Model experimentation.
+- Workflow structuring.
+- Docker and cloud deployment concepts.
 
----
+### 03. Pothole Detection
 
-## VARA Project
+[View Repository](https://github.com/Anushka0827/Potholes_Detection)
 
-VARA is an AI-driven project designed for elderly safety and well-being monitoring. The idea behind this project was to create a system that can help monitor risk situations and provide proactive assistance using intelligent monitoring techniques.
+A computer vision project focused on identifying potholes through image-based detection techniques, with applications in road safety and intelligent transportation.
 
-This project helped me understand how AI can be connected with real-life social impact problems, especially in healthcare and assisted living environments.
+### 04. Iris Flower Prediction
 
-Key areas explored:
+[View Repository](https://github.com/Anushka0827/Iris-flower-prediction)
 
-- Real-time monitoring concepts  
-- AI-based risk detection  
-- Safety-focused intelligent systems  
-- Human-centered AI applications  
+A machine learning classification application that predicts iris flower species using flower measurements, integrated with a Flask-based interface.
 
----
+### 05. Marketing Attribution Framework
 
-## Potholes Detection
+[View Repository](https://github.com/Anushka0827/Marketing-attribution-framework-for-Grito_Labs)
 
-This project focuses on detecting potholes using computer vision and machine learning techniques. The goal was to understand how AI can contribute to smarter transportation systems and road safety improvements.
+An analytics-focused project exploring marketing attribution and performance measurement.
 
-Working on this project gave me practical exposure to image-based detection systems and model training for real-world object recognition problems.
+### 06. Machine Learning Experiments
 
-Main learning areas:
+[View Repository](https://github.com/Anushka0827/Machine-Learning)
 
-- Image processing techniques  
-- Object detection concepts  
-- Computer vision workflows  
-- Smart transportation applications  
-
----
-
-## Iris Flower Prediction
-
-A beginner-friendly machine-learning web application that predicts iris flower species based on flower measurements. I built this project to strengthen my understanding of machine learning model training and Flask integration.
-
-This project also helped me learn how to connect ML models with simple web interfaces and deploy prediction systems interactively.
-
-What I learned:
-
-- Classification model training  
-- Data preprocessing basics  
-- Flask integration  
-- Building ML-powered web apps  
+A collection of practical experiments and notebooks covering data preprocessing, feature engineering, model training, and evaluation.
 
 ---
 
-## MLOps Healthcare
+## `$ research`
 
-This project is related to understanding machine learning workflows in healthcare-focused environments. While working on it, I explored concepts related to ML pipelines, experimentation, preprocessing workflows, and model handling practices.
+**IEEE Xplore Research Publication**
 
-It helped me understand the importance of organized workflows while building scalable AI systems.
+*Impact of SMOTE Balancing and SHAP-Based Feature Importance on EEG-Based Anxiety Detection Using PSD Features.*
 
-Areas explored:
+Research exploring EEG-based anxiety detection through signal processing, machine learning, class balancing, and explainable AI techniques.
 
-- Healthcare ML workflows  
-- Pipeline structuring  
-- Model experimentation  
-- Workflow optimization concepts  
-- Dockerizing the application  
-- Testing on different instances using the cloud using AWS  
+[View IEEE Publication](https://ieeexplore.ieee.org/document/11705853)
 
 ---
 
-## Machine Learning Repository
+## `$ achievements`
 
-This repository contains multiple experiments, notebooks, and practice implementations related to machine learning and data science. I use it as a space to continuously learn, test ideas, and improve my understanding of AI concepts through practical implementation.
-
-Includes:
-
-- Data preprocessing experiments  
-- Feature engineering practice  
-- Model training and evaluation  
-- Learning-focused ML implementations  
+- **1st Place** — CoDeC MIT-WPU Trifecta 2026, Machine Learning Track.
+- **National AI Hackathon Finalist** — Selected from 400+ teams and 1,600+ participants.
+- **IEEE Xplore Research Author** — Published research on EEG-based anxiety detection.
+- **Top 20** — HackMIT 2025 Ideathon.
+- **Top 300 Teams in India** — OpenAI Codex Hackathon.
+- **Grandmaster** — Abacus.
 
 ---
 
-# Achievements
+## `$ github-stats`
 
- - Grandmaster in Abacus  
+<div align="center">
 
- - Top 20 Finalist Team — HackMIT2025 Ideathon at MIT-WPU  
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anushka0827&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
- - Selected for the 24 Hours National AI Hackathon from 400+ teams and 1600+ participants  
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka0827&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
- - First Prize — Machine Learning Challenge (85+ participants)  
+<br/>
 
----
+<img src="https://streak-stats.demolab.com?user=Anushka0827&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-# GitHub Stats
-
-# GitHub Stats
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anushka0827&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anushka0827&layout=compact&theme=tokyonight&hide_border=true" />
-
----
-# Connect with me on:
-
-LinkedIn: https://www.linkedin.com/in/anushka-ugale/  
-
-GitHub: https://github.com/Anushka0827/ 
+</div>
 
 ---
 
-### “I enjoy learning by building — using AI and data science to create solutions that are practical, meaningful, and continuously improving.”
+## `$ connect`
+
+- **GitHub:** https://github.com/Anushka0827
+- **LinkedIn:** https://www.linkedin.com/in/anushka-ugale/
+
+<div align="center">
+
+### Building, learning, experimenting.
+
+*Turning ideas into practical solutions, one project at a time.*
+
+</div>
