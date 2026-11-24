@@ -220,10 +220,6 @@ Research exploring EEG signal processing and machine learning approaches for anx
 
 <img src="https://streak-stats.demolab.com?user=Anushka0827&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anushka0827&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub trophies"/>
-
 </div>
 
 ---
